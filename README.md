@@ -22,8 +22,6 @@ yarn build
 
 ## Firebase deployment
 
-Select firebase project
-
 1. Install firebase cli globally on your machine using npm command and set up your firebase project on the web console:
 In detail: https://firebase.google.com/docs/cli?authuser=0#install_the_firebase_cli
 
